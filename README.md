@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm David Kelly 👋
 
-<!--
-**dkelly-sec/dkelly-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at Monash University specialising in cybersecurity.
+Currently building hands-on skills in penetration testing and offensive security.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Completing the Jr Penetration Tester path on TryHackMe
+- Documenting a vulnerable VM assessment (recon → exploitation → remediation)
+- Growing my practical skills alongside my CS degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+**Languages**
+- Python
+
+**Security tools**
+- Nmap · Nikto · Dirb · Burp Suite
+- Wireshark (learning)
+
+**Concepts**
+- Web application enumeration
+- PHP vulnerability exploitation
+- Network reconnaissance
+- Basic web app security (OWASP)
+
+## 📌 Projects
+| Project | Description |
+|---|---|
+| [Vulnerable VM Assessment](link-when-ready) | Full pentest walkthrough — recon, exploitation and remediation of a vulnerable VM |
+
+## 📚 Currently learning
+- TryHackMe — Jr Penetration Tester path
+- Web application security (PortSwigger Web Security Academy)
+
+## 📫 Connect with me
+[LinkedIn](your-linkedin-link-here)
