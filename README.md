@@ -32,4 +32,4 @@ Currently building hands-on skills in penetration testing and offensive security
 - Web application security (PortSwigger Web Security Academy)
 
 ## 📫 Connect with me
-[LinkedIn](http://linkedin.com/in/davidkelly-sec)
+[LinkedIn](http://www.linkedin.com/in/davidkelly-sec)
