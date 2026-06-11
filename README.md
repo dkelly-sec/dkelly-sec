@@ -25,7 +25,7 @@ Currently building hands-on skills in penetration testing and offensive security
 ## 📌 Projects
 | Project | Description |
 |---|---|
-| [Vulnerable VM Assessment](link-when-ready) | Full pentest walkthrough — recon, exploitation and remediation of a vulnerable VM |
+| [Vulnerable VM Assessment]((https://github.com/dkelly-sec/basic-pentesting-1)) | Full pentest walkthrough — recon, exploitation and remediation of a vulnerable VM |
 
 ## 📚 Currently learning
 - TryHackMe — Jr Penetration Tester path
